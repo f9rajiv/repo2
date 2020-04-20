@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is FAA4-28EF
+
+ Directory of C:\git and github\my project
+
+04/21/2020  12:20 AM    <DIR>          .
+04/21/2020  12:20 AM    <DIR>          ..
+04/21/2020  12:18 AM    <DIR>          .git
+04/21/2020  12:20 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  517,407,592,448 bytes free
